@@ -9,6 +9,7 @@ verify_ssl = true
 tweepy = "*"
 pandas = "*"
 matplotlib = "*"
+python-twitter = "*"
 
 [requires]
 python_version = "3.6"
